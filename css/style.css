@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+/*reset*/
+html{
+    font-size: 62.5%;
+}
+body{
+    font: 1.6rem 'Varela Round', sans-serif;;
+    margin: 0;
+}
+p, figure, h1,h2,h3,ul,ol,li{
+    margin: 0;
+    padding: 0;
+}
+/*theme*/
+
+:root{
+    --color-default:rgb(49, 34, 104);
+    --color-primary: rgb(196, 33, 33);
+}
+
+header h1{
+    line-height: 6rem;
+    text-align: center;
+    margin-bottom: 6rem;
+    background-color: var(--color-default);
+    color: #fafafa;
+}
+main figure{
+    border: solid 0.1rem #222;
+    border-radius: 1rem;
+    padding: 2rem;
+    max-width: 70rem;
+    background-color: #fafafa;
+    margin: 1rem auto;
+}
+
+main figure img{
+    margin: 0rem auto;
+    max-width: 70rem;
+    border-radius: 1rem;
+}
+figcaption p{
+    line-height: 2.5rem;
+}
+footer p{
+    padding-top: 4rem;
+    text-align: center;
+}
