@@ -1,7 +1,7 @@
 # Projet portofolio développeur
 ## Comment appliquer les bonnes pratiques ?
 
-[voir lien](https://github.com/PhilDaiguille/test/index.html)
+[voir lien](https://phildaiguille.github.io/test/index.html)
 
 ### Pour le code HTML
 
